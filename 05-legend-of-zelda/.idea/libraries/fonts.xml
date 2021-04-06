@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="fonts">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fonts/zelda.zip!/" />
+      <root url="jar://$PROJECT_DIR$/fonts/fipps.zip!/" />
+      <root url="jar://$PROJECT_DIR$/fonts/gothicpixels.zip!/" />
+      <root url="jar://$PROJECT_DIR$/fonts/arcade_alternate.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

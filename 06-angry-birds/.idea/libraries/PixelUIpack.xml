@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PixelUIpack">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/graphics/PixelUIpack.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

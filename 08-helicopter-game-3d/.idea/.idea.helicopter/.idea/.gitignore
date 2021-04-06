@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.helicopter.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../:\Users\Vincent\dev\OpenCourseWare\GD50\08-helicopter-game-3d\project\helicopter\.idea\.idea.helicopter\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
